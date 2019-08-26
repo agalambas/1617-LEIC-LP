@@ -1,2 +1,10 @@
-# 1617-LEIC-LP
-Logic for Programming, Project - Sudoku Problem Solver
+# Logic for Programming (LP)
+## Bachelor of Computer Science & Engineering @ Instituto Superior Técnico
+Project, Sudoku Problem Solver
+<br><br>
+
+#### Language
+Prolog
+
+#### How to run
+``````
